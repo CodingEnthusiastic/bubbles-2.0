@@ -1,2 +1,2 @@
-# bubbles-2.0
-This frontend project enables timer as per user choice + all features in bubble game 1.0
+# BubbleGame
+The frontend project with a special use of javascript 
